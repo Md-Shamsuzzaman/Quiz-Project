@@ -107,13 +107,13 @@ body {
 @media screen and (max-width:600px){
     .container{
         height: 25rem;
-        width: 25rem;
+        width: 23rem;
     }
 }
 @media screen and (max-width:420px){
     .container{
         height: 25rem;
-        width: 25rem;
+        width: 23rem;
     }
     #Submit{
         margin-top: 15px;
