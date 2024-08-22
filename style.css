@@ -112,8 +112,8 @@ body {
 }
 @media screen and (max-width:420px){
     .container{
-        height: 25rem;
-        width: 20rem;
+        height: 30rem;
+        width: 20.5rem;
     }
     #Submit{
         margin-top: 30px;
