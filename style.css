@@ -113,13 +113,14 @@ body {
 @media screen and (max-width:420px){
     .container{
         height: 25rem;
-        width: 20.5rem;
+        width: 25rem;
     }
     #Submit{
-        margin-top: 20px;
+        margin-top: 15px;
     }
    .content {
         margin-left: 0.5rem;
+        margin-top: 1rem;
     }
     .question {
         font-weight: normal;
