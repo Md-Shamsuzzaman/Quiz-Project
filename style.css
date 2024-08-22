@@ -19,7 +19,7 @@ body {
 
     height: 23rem;
     width: 35rem;
-    gap: 9px;
+    gap: 5px;
     font-size: larger;
     border-radius: 15px;
     background-color: #FAEBD7;
@@ -33,7 +33,7 @@ body {
 }
 
 .content {
-    margin-left: 2rem;
+    margin-left: 1.5rem;
     margin-top: 1.5rem;
 }
 
@@ -41,7 +41,7 @@ body {
     margin-top: 1.5rem;
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 5px;
 
 }
 
